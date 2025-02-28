@@ -1,3 +1,3 @@
 {
-  "liveSassCompile.settings.showOutputWindowOn": "Debug"
+  "typescript.tsdk": "node_modules\\typescript\\lib"
 }
